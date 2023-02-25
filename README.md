@@ -9,15 +9,6 @@ Butterworth high-pass filter that removes the DO and RE notes. The project also 
 
 Finally, the project involves storing the generated signals as audio files and plotting the signals versus time t.
 
-# Tools and Techniques
-**The following tools and techniques were used in the project**:
-
-MATLAB/GNU-Octave
-Signals in time and frequency domain
-Butterworth low-pass and high-pass filters
-Parseval's theorem
-Audio file storage
-Signal plotting versus time t
 
 # How to Run 
 To run the project, you need to have MATLAB or GNU-Octave installed on your machine. You can then download or clone the project repository 
